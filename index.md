@@ -1,4 +1,7 @@
 # 博客
 
 ### 目录
-#### [测试目录](/Pharmacology/解热镇痛抗炎药/解热镇痛抗炎药.html)
+#### [Pharmacology](/Pharmacology/Pharmacology.html)
+#### [Git](/LearnGit/LearnGit.html)
+#### [Network](/Network/Network.html)
+#### [Idea & Tought](/other/other.html)
