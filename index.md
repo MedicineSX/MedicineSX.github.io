@@ -1,7 +1,6 @@
-# 博客
-
-### 目录
-#### [Pharmacology](/Pharmacology/Pharmacology.html)
-#### [Git](/LearnGit/LearnGit.html)
-#### [Network](/Network/Network.html)
+### CONTENT
+#### [Pharmacology](/pharmacology/pharmacology.html)
+#### [Git](/learngit/learnGit.html)
+#### [Network](/network/network.html)
+#### [Html](/html/html.html)
 #### [Idea & Tought](/other/other.html)
