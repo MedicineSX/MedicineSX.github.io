@@ -1,7 +1,6 @@
 ### CONTENT
-#### [Pharmacology](/pharmacology/pharmacology.html)
-#### [Git](/learngit/learngit.html)
-#### [Network](/network/network.html)
+#### [Pharmacology](/pharmacology/pharmacology.md)
+#### [Git](/learngit/learngit.md)
+#### [Network](/network/network.md)
 #### [Html](/html/html.html)
-#### [Idea & Tought](/other/other.html)
-#### [test](/learngit/summary_1.md)
+#### [Idea & Tought](/other/other.md)
