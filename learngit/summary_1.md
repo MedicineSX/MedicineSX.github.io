@@ -93,7 +93,7 @@ $ git rm <file> && git commit -m <message>	//从版本库中删除该文件
 $ ssh-keygen -t rsa -C "myemail@example.com"	//C大写
 ```
 
-2. GitHub添加SSH Key。$$GitHub\rightarrow Account\ setting\rightarrow SSH\ Keys\rightarrow Add\ SSH\ Key$$。`title`任意填写，文本框中填写`id_rsa.pub`中的内容。
+2. GitHub添加SSH Key。"GitHub" -> "Account setting" -> "SSH Keys" -> "Add SSH Key"。`title`任意填写，文本框中填写`id_rsa.pub`中的内容。
 3. 添加远程库，在GitHub中添加`repo`，尽量与本地仓库同名。
 
 ```
