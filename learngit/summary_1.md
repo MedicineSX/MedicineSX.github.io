@@ -16,13 +16,13 @@ $ git config --global user.email "email@example.com"	//双引号不用写
 
 ### 创建版本库
 
-1. 初始化一个仓库，在要初始化仓库的文件夹中进行：
+* 1.初始化一个仓库，在要初始化仓库的文件夹中进行：
 
 ```
 $ git init
 ```
 
-2. 添加文件到Git仓库，分两步：
+* 2.添加文件到Git仓库，分两步：
 
 ```
 $ git add <file1> <file2> <...>	//添加到暂存区
@@ -87,14 +87,14 @@ $ git rm <file> && git commit -m <message>	//从版本库中删除该文件
 
 ### 添加远程仓库(GitHub)
 
-1. 创建SSH Key：创建后，位置在`~/.ssh`。`~/.ssh`中，`id_rsa`是私钥，不可泄露；`id_rsa.pub`是公钥，可告诉任何人。
+* 1.创建SSH Key：创建后，位置在`~/.ssh`。`~/.ssh`中，`id_rsa`是私钥，不可泄露；`id_rsa.pub`是公钥，可告诉任何人。
 
 ```
 $ ssh-keygen -t rsa -C "myemail@example.com"	//C大写
 ```
 
-2. GitHub添加SSH Key。"GitHub" -> "Account setting" -> "SSH Keys" -> "Add SSH Key"。`title`任意填写，文本框中填写`id_rsa.pub`中的内容。
-3. 添加远程库，在GitHub中添加`repo`，尽量与本地仓库同名。
+* 2.GitHub添加SSH Key。"GitHub" -> "Account setting" -> "SSH Keys" -> "Add SSH Key"。`title`任意填写，文本框中填写`id_rsa.pub`中的内容。
+* 3.添加远程库，在GitHub中添加`repo`，尽量与本地仓库同名。
 
 ```
 $ cd <localreponame>
